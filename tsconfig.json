@@ -1,0 +1,10 @@
+{
+    "extends": "@ringieraxelspringer/tsconfig/esm",
+    "compilerOptions": {
+        "types": ["node"],
+        "rootDir": "src",
+        "outDir": "dist",
+        "skipLibCheck": true
+    },
+    "include": ["src/**/*.ts"]
+}
