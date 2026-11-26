@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [2.1.2] - 2026-11-26
+
+### Changed
+
+- [@pjarolewski]: Knowledge base generated from `@ringpublishing/mui-components` 2.1.2.
+
 ## [2.1.1] - 2026-11-26
 
 ### Changed
